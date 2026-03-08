@@ -1,0 +1,22 @@
+INFO:     Will watch for changes in these directories: ['c:\\Users\\aksha\\feature8910']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [10652] using WatchFiles
+INFO:     Started server process [4128]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59313 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:64038 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64040 - "GET /api/f10/health HTTP/1.1" 404 Not Found
+WARNING:  WatchFiles detected changes in 'main.py', 'main_graph.py', 'unified_graph.py', 'integrator_api.py'. Reloading...
+ forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source             
+libifcoremd.dll    00007FFF8273DF54  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FF8A5A49DED  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FF8A765E8D7  Unknown               Unknown  Unknown
+ntdll.dll          00007FF8A912C48C  Unknown               Unknown  Unknown
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source             
+libifcoremd.dll    00007FFF8273DF54  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FF8A5A49DED  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FF8A765E8D7  Unknown               Unknown  Unknown
+ntdll.dll          00007FF8A912C48C  Unknown               Unknown  Unknown
